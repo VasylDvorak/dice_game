@@ -4,3 +4,5 @@
 *.xml linguist-detectable=false
 *.cc linguist-detectable=false
 *.cpp linguist-detectable=false
+*.cmake linguist-detectable=false
+*.txt linguist-detectable=false
